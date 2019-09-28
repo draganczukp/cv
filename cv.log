@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.3.3)  28 MAR 2019 19:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.8.24)  28 SEP 2019 18:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -103,10 +103,6 @@ Package ifvtex Info: VTeX not detected.
 Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
 Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO)
@@ -247,22 +243,22 @@ Package: inputenc 2018/08/11 v1.3c Input encoding file
 ) (./cv.aux)
 \openout1 = `cv.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
  (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count100
@@ -278,7 +274,7 @@ LaTeX Font Info:    ... okay on input line 67.
 \everyMPtoPDFconversion=\toks19
 )
 \AtBeginShipoutBox=\box28
-Package hyperref Info: Link coloring OFF on input line 67.
+Package hyperref Info: Link coloring OFF on input line 66.
  (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
  (/usr/share/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
@@ -286,238 +282,72 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count106
 )
-LaTeX Info: Redefining \ref on input line 67.
-LaTeX Info: Redefining \pageref on input line 67.
-LaTeX Info: Redefining \nameref on input line 67.
+LaTeX Info: Redefining \ref on input line 66.
+LaTeX Info: Redefining \pageref on input line 66.
+LaTeX Info: Redefining \nameref on input line 66.
  (./cv.out) (./cv.out)
 \@outlinefile=\write3
 \openout3 = `cv.out'.
 
-LaTeX Font Info:    Try loading font information for OML+plm on input line 69.
+LaTeX Font Info:    Try loading font information for OML+plm on input line 68.
  (/usr/share/texmf-dist/tex/latex/polski/omlplm.fd
 File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    Try loading font information for OMS+plsy on input line 69.
+LaTeX Font Info:    Try loading font information for OMS+plsy on input line 68.
  (/usr/share/texmf-dist/tex/latex/polski/omsplsy.fd
 File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    Try loading font information for OMX+plex on input line 69.
+LaTeX Font Info:    Try loading font information for OMX+plex on input line 68.
  (/usr/share/texmf-dist/tex/latex/polski/omxplex.fd
 File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <10.95> on input line 69.
+(Font)              <10.95> on input line 68.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <8> on input line 69.
+(Font)              <8> on input line 68.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <6> on input line 69.
-LaTeX Font Info:    Try loading font information for U+msa on input line 69.
+(Font)              <6> on input line 68.
+LaTeX Font Info:    Try loading font information for U+msa on input line 68.
  (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 69.
+LaTeX Font Info:    Try loading font information for U+msb on input line 68.
  (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for OT4+cmss on input line 78.
+LaTeX Font Info:    Try loading font information for OT4+cmss on input line 77.
  (/usr/share/texmf-dist/tex/latex/polski/ot4cmss.fd
 File: ot4cmss.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 83.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 82.
  (/usr/share/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 83.
-
-./cv.tex:86: Undefined control sequence.
-\cftdotfill #1->\def \@tempa {#1}\def \@tempb 
-                                              {\cftnodots }\ifx \@tempa \@te...
-l.86 		{2013-2017}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./cv.tex:86: Missing control sequence inserted.
-<inserted text> 
-                \inaccessible 
-l.86 		{2013-2017}
-                  
-Please don't say `\def cs{...}', say `\def\cs{...}'.
-I've inserted an inaccessible control sequence so that your
-definition will be completed without mixing me up too badly.
-You can recover graciously from this error, if you're
-careful; see exercise 27.2 in The TeXbook.
-
-./cv.tex:86: Missing control sequence inserted.
-<inserted text> 
-                \inaccessible 
-l.86 		{2013-2017}
-                  
-Please don't say `\def cs{...}', say `\def\cs{...}'.
-I've inserted an inaccessible control sequence so that your
-definition will be completed without mixing me up too badly.
-You can recover graciously from this error, if you're
-careful; see exercise 27.2 in The TeXbook.
-
-./cv.tex:86: Missing control sequence inserted.
-<inserted text> 
-                \inaccessible 
-l.86 		{2013-2017}
-                  
-Please don't say `\def cs{...}', say `\def\cs{...}'.
-I've inserted an inaccessible control sequence so that your
-definition will be completed without mixing me up too badly.
-You can recover graciously from this error, if you're
-careful; see exercise 27.2 in The TeXbook.
-
-./cv.tex:86: Missing control sequence inserted.
-<inserted text> 
-                \inaccessible 
-l.86 		{2013-2017}
-                  
-Please don't say `\def cs{...}', say `\def\cs{...}'.
-I've inserted an inaccessible control sequence so that your
-definition will be completed without mixing me up too badly.
-You can recover graciously from this error, if you're
-careful; see exercise 27.2 in The TeXbook.
-
-./cv.tex:95: Undefined control sequence.
-\cftdotfill #1->\def \@tempa {#1}\def \@tempb 
-                                              {\cftnodots }\ifx \@tempa \@te...
-l.95 ...udia Inżynierskie (w trakcie)}{2017-2021}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./cv.tex:95: Missing control sequence inserted.
-<inserted text> 
-                \inaccessible 
-l.95 ...udia Inżynierskie (w trakcie)}{2017-2021}
-                                                  
-Please don't say `\def cs{...}', say `\def\cs{...}'.
-I've inserted an inaccessible control sequence so that your
-definition will be completed without mixing me up too badly.
-You can recover graciously from this error, if you're
-careful; see exercise 27.2 in The TeXbook.
-
-./cv.tex:95: Missing control sequence inserted.
-<inserted text> 
-                \inaccessible 
-l.95 ...udia Inżynierskie (w trakcie)}{2017-2021}
-                                                  
-Please don't say `\def cs{...}', say `\def\cs{...}'.
-I've inserted an inaccessible control sequence so that your
-definition will be completed without mixing me up too badly.
-You can recover graciously from this error, if you're
-careful; see exercise 27.2 in The TeXbook.
-
-./cv.tex:95: Missing control sequence inserted.
-<inserted text> 
-                \inaccessible 
-l.95 ...udia Inżynierskie (w trakcie)}{2017-2021}
-                                                  
-Please don't say `\def cs{...}', say `\def\cs{...}'.
-I've inserted an inaccessible control sequence so that your
-definition will be completed without mixing me up too badly.
-You can recover graciously from this error, if you're
-careful; see exercise 27.2 in The TeXbook.
-
-./cv.tex:95: Missing control sequence inserted.
-<inserted text> 
-                \inaccessible 
-l.95 ...udia Inżynierskie (w trakcie)}{2017-2021}
-                                                  
-Please don't say `\def cs{...}', say `\def\cs{...}'.
-I've inserted an inaccessible control sequence so that your
-definition will be completed without mixing me up too badly.
-You can recover graciously from this error, if you're
-careful; see exercise 27.2 in The TeXbook.
-
-./cv.tex:97: Undefined control sequence.
-\cftdotfill #1->\def \@tempa {#1}\def \@tempb 
-                                              {\cftnodots }\ifx \@tempa \@te...
-l.97 ...Essentials}{Zielona Góra, Polska}{}{2019}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./cv.tex:97: Missing control sequence inserted.
-<inserted text> 
-                \inaccessible 
-l.97 ...Essentials}{Zielona Góra, Polska}{}{2019}
-                                                  
-Please don't say `\def cs{...}', say `\def\cs{...}'.
-I've inserted an inaccessible control sequence so that your
-definition will be completed without mixing me up too badly.
-You can recover graciously from this error, if you're
-careful; see exercise 27.2 in The TeXbook.
-
-./cv.tex:97: Missing control sequence inserted.
-<inserted text> 
-                \inaccessible 
-l.97 ...Essentials}{Zielona Góra, Polska}{}{2019}
-                                                  
-Please don't say `\def cs{...}', say `\def\cs{...}'.
-I've inserted an inaccessible control sequence so that your
-definition will be completed without mixing me up too badly.
-You can recover graciously from this error, if you're
-careful; see exercise 27.2 in The TeXbook.
-
-./cv.tex:97: Missing control sequence inserted.
-<inserted text> 
-                \inaccessible 
-l.97 ...Essentials}{Zielona Góra, Polska}{}{2019}
-                                                  
-Please don't say `\def cs{...}', say `\def\cs{...}'.
-I've inserted an inaccessible control sequence so that your
-definition will be completed without mixing me up too badly.
-You can recover graciously from this error, if you're
-careful; see exercise 27.2 in The TeXbook.
-
-./cv.tex:97: Missing control sequence inserted.
-<inserted text> 
-                \inaccessible 
-l.97 ...Essentials}{Zielona Góra, Polska}{}{2019}
-                                                  
-Please don't say `\def cs{...}', say `\def\cs{...}'.
-I've inserted an inaccessible control sequence so that your
-definition will be completed without mixing me up too badly.
-You can recover graciously from this error, if you're
-careful; see exercise 27.2 in The TeXbook.
-
-[1
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 82.
+ [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 162.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 175.
  [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 162.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 175.
  (./cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 162.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 162.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 175.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 175.
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 162.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 175.
  ) 
 Here is how much of TeX's memory you used:
- 5930 strings out of 492616
- 86009 string characters out of 6135178
- 191146 words of memory out of 5000000
- 9789 multiletter control sequences out of 15000+600000
+ 5927 strings out of 492623
+ 85977 string characters out of 6135669
+ 192149 words of memory out of 5000000
+ 9787 multiletter control sequences out of 15000+600000
  11623 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,10n,35p,304b,444s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,10n,35p,304b,504s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/pl/plrm.enc}{/usr/share/texmf-dist/fonts/enc/dvips/pl/plit.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/pl/plbx10.pfb></usr/share/texmf-dist/fonts/type1/public/pl/plbx12.pfb></usr/share/texmf-dist/fonts/type1/public/pl/plr10.pfb></usr/share/texmf-dist/fonts/type1/public/pl/plr8.pfb></usr/share/texmf-dist/fonts/type1/public/pl/plssbx10.pfb></usr/share/texmf-dist/fonts/type1/public/pl/plti10.pfb>
-Output written on cv.pdf (2 pages, 64678 bytes).
+Output written on cv.pdf (2 pages, 65441 bytes).
 PDF statistics:
  51 PDF objects out of 1000 (max. 8388607)
  39 compressed objects within 1 object stream
